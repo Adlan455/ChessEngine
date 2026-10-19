@@ -1,6 +1,6 @@
 Chess Engine
 
-A chess engine built from scratch, without any AI or machine learning, using bitboards.
+A chess engine built from scratch, without AI assistance, using bitboards.
 
 About
 
